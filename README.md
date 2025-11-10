@@ -1,6 +1,6 @@
 # An Intelligent Enterprise Assistant for public sector (SIH 1706)
-# NAME : DILLI BABU K
-# REG NO : 212224110015
+# NAME : VAISHAK M
+# REG NO : 212224040355
 ## PROBLEM TITLE:
 "Intelligent Enterprise Assistant: Enhancing Organizational Efficiency through AI-driven Chatbot Integration"
 
